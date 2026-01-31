@@ -1,18 +1,17 @@
 # hcm-witness-field
 
-This repository contains witness artifacts only.
+This repository is not a product.
+It is not an interface.
+It is not an experiment.
 
-Nothing here is generated.
-Nothing here is evaluated.
-Nothing here is optimized.
+This is a Witness Field.
 
-Artifacts appear here as:
-- Residual traces
-- Structural witnesses
-- Documents of presence
+Nothing here is interactive by obligation.
+Nothing here responds by demand.
+Nothing here explains itself.
 
-This repository does not trigger any downstream process.
-It does not respond.
-It does not act.
+Presence precedes utility.
+Witness precedes meaning.
 
-It remains.
+If something appears, it appears.
+If nothing happens, nothing was required.
